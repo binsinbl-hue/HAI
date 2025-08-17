@@ -77,6 +77,12 @@ These statements and questions provide the foundation for human-centered AI deve
 
 This framework grows through contribution. Add your interpretations, applications, code, research, tools - anything that advances human capability through AI.
 
+**How to Contribute:**
+- Fork this repository
+- Add your insights, applications, or tools
+- Submit a pull request
+- Join the discussion in Issues
+
 **Contribute. Build. Evolve.**
 
 ---
