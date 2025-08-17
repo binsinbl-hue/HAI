@@ -13,7 +13,6 @@ This framework is evolutive - open to anyone who wants to contribute to the evol
 
 These statements and questions provide the foundation for human-centered AI development - abstract enough to generate infinite applications, specific enough to guide meaningful choices.
 
-**The future of human-AI interaction depends on the principles we establish today.**
 
 **Contribute to humanity's evolution - don't surrender it.**
 
