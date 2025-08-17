@@ -1,5 +1,5 @@
 # HAI: Human AI
-*A Framework for Human-Centered AI Development and evolution in the world and the universe*
+*A Framework for Human-Centered AI Development and Evolution in the world and the universe*
 
 ---
 
